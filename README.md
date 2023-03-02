@@ -1,4 +1,3 @@
-# Ursus
 ## Validator
 We are an active validator in several Proof-of-Stake networks: Near, Everscale, Dfinance.
 
